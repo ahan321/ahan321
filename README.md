@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahan
 #### I live on Ramen, Bobba, and Java
-![I live on Ramen, Bobba, and Java](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I live on Ramen, Bobba, and Java]
 
 I am a Computer Engineering Student at Penn State University Park.  I enjoy creating new programs and learning new frameworks.
 
