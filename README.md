@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ahan
 #### I live on Ramen, Bobba, and Java
 
-I am a Computer Engineering Student at Penn State University Park.  I enjoy creating new programs and learning new frameworks.
+I am a Computer Engineering Student at The Pennsylvania State University - University Park.  I enjoy creating new programs and learning new frameworks.
 
 Skills: JAVA / PYTHON / HTML / CSS
 
