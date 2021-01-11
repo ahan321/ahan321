@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ahan
-#### I live on Ramen, Bobba, and Java
+#### I'm probably on Github if I'm not procrastinating.
 
 I am a Computer Engineering Student at The Pennsylvania State University - University Park.  I enjoy creating new programs and learning new frameworks.
 
