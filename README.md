@@ -11,4 +11,4 @@ Skills: JAVA / PYTHON / HTML / CSS
 - 💬 Ask me about Java. 
 - 📫 How to reach me: ahanmalli123@gmail.com 
 - 😄 Pronouns: he/him/his 
-- ⚡ Fun fact: I use a MacBook Pro, fight me... 
+- ⚡ Fun fact: Macs >>> PC
