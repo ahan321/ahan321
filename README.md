@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ahan
 #### I'm probably on Github if I'm not procrastinating.
 
-I am a Computer Engineering Student at The Pennsylvania State University - University Park.  I enjoy creating new programs and learning new frameworks.
+I am a Computer Engineering Student at The Pennsylvania State University, University Park.  I enjoy creating new programs and learning new frameworks.
 
 Skills: JAVA / PYTHON / HTML / CSS
 
