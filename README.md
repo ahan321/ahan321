@@ -3,7 +3,7 @@
 
 I am a Computer Engineering Student at The Pennsylvania State University, University Park.  I enjoy creating new programs and learning new frameworks.
 
-Skills: JAVA / PYTHON / HTML / CSS
+Skills: JAVA / PYTHON / HTML / CSS / VERILOG / MIPS
 
 - 🔭 I’m currently working on a top-down 2D Tank Game 
 - 🌱 I’m currently learning Swift and iOS Development. 
