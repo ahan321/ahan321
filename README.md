@@ -11,4 +11,4 @@ Skills: JAVA / PYTHON / HTML / CSS / VERILOG / MIPS
 - 💬 Ask me about Java. 
 - 📫 How to reach me: ahanmalli123@gmail.com 
 - 😄 Pronouns: he/him/his 
-- ⚡ Fun fact: Macs >>> PC
+- ⚡ Fun fact: I can speak 4 languages!
